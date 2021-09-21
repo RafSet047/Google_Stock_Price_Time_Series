@@ -1,5 +1,5 @@
 # Google_Stock_Price_Time_Series
-This Repo is Milestone Project from the Udemy course of Daniel Bourke - Zero to Mastery to mastery of Tensorflow
+This Repo is Milestone Project from the Udemy course of Daniel Bourke - Zero to Mastery of Tensorflow
 https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/
 
 In this notebooks different models were implemented for predicting the Google Stock prices.
