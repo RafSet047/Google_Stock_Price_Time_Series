@@ -10,4 +10,5 @@ Before the models the naive and moving average methods are also tried then for c
 In the first part models with different window sizes are tried. With window sizes the data became an ordinary cross-sectional data.
 
 In the Part2
-New features were added like other big tech companies' prices and industrial indexes. Models have in that notebook 2 branches of inputs. 
+New features were added like other big tech companies' prices and industrial indexes. Models have in that notebook 2 branches of inputs.
+Plus the MinMax scaler is implemented for all features and target also
